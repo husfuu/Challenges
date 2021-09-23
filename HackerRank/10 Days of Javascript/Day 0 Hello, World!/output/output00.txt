@@ -1,0 +1,2 @@
+Hello, World!
+Welcome to 10 Days of JavaScript!
