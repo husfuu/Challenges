@@ -20,7 +20,7 @@ function vowelsAndConsonants(s) {
                 console.log(s[i])
             }
         }
-    }
+    // }
     return;    
 }
 
